@@ -36,6 +36,8 @@ uild\binding.sln" (default targets) -- FAILED.
 
 ### Can Run ng t? - Yes! Without errors.
 
+![image](https://user-images.githubusercontent.com/23176181/231292662-7119efee-0052-4634-a383-a025f5f10f71.png)
+
 #
 
 ### Dive in:
