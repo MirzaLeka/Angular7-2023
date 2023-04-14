@@ -53,3 +53,9 @@ uild\binding.sln" (default targets) -- FAILED.
   npm run dev
 
 ```
+
+### Node.js Angular compatibility table
+
+![image](https://user-images.githubusercontent.com/23176181/232169919-1e866488-bae8-4025-b83a-f5174c749e90.png)
+
+[More Details](https://stackoverflow.com/a/60258560/7584952)
